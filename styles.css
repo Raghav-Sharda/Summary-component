@@ -1,0 +1,48 @@
+body {
+  background-color: #fff;
+  text-align: center;
+  font-family: "Noto Sans SignWriting", sans-serif;
+  font-family: "Teko", sans-serif;
+  font-size: 18px;
+}
+.component {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  padding: 12.5% 0;
+}
+.result {
+  background-color: hsl(228, 45%, 44%);
+  text-align: center;
+  color: #fff;
+}
+p {
+  width: 50%;
+  margin: auto;
+}
+.summary {
+  text-align: left;
+}
+.reaction {
+  background-color: hsl(0, 100%, 67%);
+  display: flex;
+}
+.score {
+  margin-left: auto;
+  padding-right: 10px;
+}
+.memory {
+  background-color: hsl(39, 100%, 56%);
+  display: flex;
+}
+.verbal {
+  background-color: hsl(166, 100%, 37%);
+  display: flex;
+}
+.visual {
+  background-color: hsl(234, 85%, 45%);
+  display: flex;
+}
+button {
+  padding: 0;
+}
